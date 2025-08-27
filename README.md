@@ -24,7 +24,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 
 ### Download Code from Github
 
-git clone https://github.com/iamtejasmane/aws-three-tier-web-app.git
+git clone https://github.com/JYOTHIkudipudi/AWS-3tier.git
 
 ### S3 Bucket Creation
 
@@ -717,6 +717,4 @@ In order to clean up the resources in the AWS account and avoid incurring any ot
 
     Lastly, delete the VPC by navigating to Your VPCs on the lefthand side of the VPC dashboard. Select the VPC that we created for this lab, and under the Actions dropdown click Delete VPC. This will also delete the subnets and security groups.
 
-## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
